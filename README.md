@@ -1,0 +1,1 @@
+# nextjs_supabase_fullyworking_navIncluded
